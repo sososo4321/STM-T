@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/InstructionsScene.unity
+    guid: 8216537f679f49646b76281cad1574f6
+  - enabled: 0
+    path: Assets/Scenes/ShortTermMemory.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: cf9f1a2af2ba3d84fa0f8e660682c834
+  - enabled: 0
+    path: Assets/Scenes/Lobby.unity
+    guid: ffa6a663d5a7c6a4285b3b75697bfd4e
+  - enabled: 0
+    path: Assets/Scenes/MulterUserGame.unity
+    guid: 7b10bf34d5b8f4b4da8f180540906a99
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ColorInteract.unity
+    guid: 37c1d7b85f183a2488dc1a93f7a19db4
+  - enabled: 0
+    path: Assets/Scenes/Examples/HandCoachExample.unity
+    guid: 8a7bd4608208ef04fa55e0a7cdb60015
+  - enabled: 0
+    path: Assets/Scenes/LessBuildTime.unity
+    guid: b6ed0fe6d2d085942a90dfb0b7b5e0d5
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 33bcdc089483eb245a1d2393f846685a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3051d49068df4ae4f88ac5dd0e34a830, type: 2}

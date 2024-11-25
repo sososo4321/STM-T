@@ -1,0 +1,3 @@
+rep "AR Project@borciftci@cloud"
+  path "/"
+    smartbranch "/main"
